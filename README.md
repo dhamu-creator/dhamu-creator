@@ -23,8 +23,7 @@ I'm a final-year B.Tech Artificial Intelligence & Data Science student passionat
 ### Programming
 
 * Python (Beginner to Intermediate)
-* SQL (Basics)
-
+* SQL (Beginner to Intermediate)
 ### AI & Machine Learning
 
 * Machine Learning Fundamentals
